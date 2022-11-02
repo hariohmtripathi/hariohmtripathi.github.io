@@ -251,7 +251,20 @@
 
 
         }
+        
+        #githubStats{
+            width: 80%;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            /* box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px; */
+            box-shadow: rgba(0, 128, 255, 0.3) 0px 0px 0px 3px;
+            background-color: white;
+        }
+        
+        #githubStats>img{
 
+        }
         #projects{
             display: flex;
             justify-content: center;

@@ -1,4 +1,4 @@
-@media screen and (max-width:840px){
+@media screen and (max-width:1400px){
     #navbar{
         display: flex;
         justify-content: center;
@@ -231,8 +231,8 @@
         width: 100%;
     }
     #projectImage>div>a>img{
-        width:500px;
-        height: 300px;
+        width:90%;
+        height: 400px;
         box-sizing: border-box;
         border-radius: 5px;
         box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
