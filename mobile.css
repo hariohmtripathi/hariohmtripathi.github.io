@@ -34,7 +34,7 @@
     width: 100%;
     display: flex;
     justify-content: space-around;
-    font-size: 10px;
+    font-size: 8px;
 }
 #navLink>h3>a{
     color: white;
