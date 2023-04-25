@@ -38,7 +38,7 @@
 
             
         }
-        #navbar{
+        #nav-menu{
             /* border: 1px solid red; */
             display: flex;
             justify-content: center;
@@ -50,7 +50,7 @@
            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;           
            border-radius: 5px;
         }
-        #navbar>div{
+        #nav-menu>div{
             width: 95%;
            /* border: 1px solid green; */
            display: flex;
@@ -79,12 +79,12 @@
             text-decoration: none;
         }
 
-        #profile{
+        #about{
             display: flex;
             justify-content: center;
             
         }
-        #profile>div{
+        #about>div{
             width: 95%;
             display: flex;
             justify-content: space-between;
@@ -344,11 +344,11 @@
             cursor: pointer;
         }
 
-        #skill{
+        #skills{
             display: flex;
             justify-content: center;
         }
-        #skill>div{
+        #skills>div{
             width: 95%;
             display: flex;
             justify-content: space-between;
