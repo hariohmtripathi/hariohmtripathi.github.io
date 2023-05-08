@@ -78,7 +78,7 @@
 #profileText>div:last-child{
     width: 15%;
 }
-#profileText a>button{
+#profileText button{
     display: block;
     width: 100%;
     padding: 15px 25px;
